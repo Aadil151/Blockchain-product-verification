@@ -1,1 +1,1 @@
-# Scaffold-eth-dapp-project
+# Blockchain product verification
